@@ -75,7 +75,7 @@ I'm a CompSci grad passionate about solving complex problems. I excel in buildin
 
 ## Connect with me  
 <div align="center">
-<a href="https://stackoverflow.com/users/arsalan-habib" target="_blank">
+<a href="https://stackoverflow.com/users/12840899/arsalan-habib" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 <a href="https://linkedin.com/in/syedarsalanhabib" target="_blank">
